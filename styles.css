@@ -1,0 +1,165 @@
+* {
+    margin: 10px 10px;
+    padding: 0px 5px 
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.8em;
+    font-size: 18px;
+
+}
+h1 {
+    padding: 35px; 
+    color:red;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: forestgreen;
+    font-weight: lighter;
+}
+
+.black-border {
+    border: 5px solid black;
+    border-width: 3px;
+    margin: 0px auto;
+    width: 50%;
+}
+
+p {
+    color:navy;
+}
+
+.background-green {
+    background-color: olive;
+}
+
+.dark-grey {
+    color: #555555;
+}
+#serif {
+    font-family: serif;
+}
+.box-shadow {
+    box-shadow: 3px 6px deeppink;
+}
+
+.background {
+    background-color: lightblue;
+    box-shadow: 3px 6px red ;
+}
+.italic {
+    font-style: italic;
+}
+h1 {
+    border: #555555 3px;
+    text-decoration: underline;
+}
+.other-font {
+    font-family: 'Dancing Script', cursive;
+}
+.font {
+    font: normal 20px Arial, Helvetica, Sans-serif;
+}
+.container {
+    padding: 20px;
+    margin: 20px
+}
+
+.red-border {
+    border: 1px solid rgb(253, 3, 3);
+    border-width: 5px;
+    width: 60%;
+    margin: 40px auto;
+}
+
+.green-border {
+    border: 8px solid green;
+    border-style: dotted;
+    margin: 50px 0px;
+    padding: 25px
+}
+
+.purple-border {
+    border: 10px solid purple;
+    border-style: double;
+    margin: 30px;
+    width:fit-content;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left:20px
+}
+
+.darkblue-border {
+    border: 7px solid rgb(27, 6, 77);
+    border-style: groove;
+    border-radius: 70px;
+    padding: 20px;
+    margin: 40px;
+}
+
+a {
+    color:burlywood;
+    text-decoration:none; 
+    font-style:italic; 
+    letter-spacing:0.1em;
+ }
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color:green
+}
+
+.black-border li {
+    padding: 0px 20px;
+    list-style: square;
+}
+
+.links {
+color:cornflowerblue;
+font-family: fantasy;
+text-decoration: none;
+}
+
+.links-2 {
+    border-bottom: dotted 2px blueviolet;
+    list-style: square;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
